@@ -1,2 +1,2 @@
 # MiniProjects
-All the mini projects will be uploaded here
+All the mini projects with their collaboratory is provided here.
